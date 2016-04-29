@@ -58,7 +58,9 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="html\index.html" />
     <Content Include="images\2241418215.jpg" />
+    <Content Include="styles\main.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
