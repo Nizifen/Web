@@ -6,18 +6,15 @@ ul {
 
 ul li {
     margin: 0;
-height:50px;
-padding:0;
+    height: 50px;
+    padding: 0;
 }
 
-=======
-padding:0;
-}
-a{
-height:16px;
-color:#666;
+a {
+    height: 16px;
+    color: #666;
 }
 
-h2{
-color:#888;
+h2 {
+    color: #888;
 }
