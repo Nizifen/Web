@@ -6,7 +6,16 @@ ul {
 
 ul li {
     margin: 0;
+<<<<<<< HEAD
 height:50px;
 padding:0;
 }
 
+=======
+padding:0;
+}
+a{
+height:16px;
+color:#666;
+}
+>>>>>>> origin/master
